@@ -14,8 +14,7 @@ body {
 }
 
 h1, h2 {
-  font-family: "Pixelify Sans", sans-serif;
-  font-optical-sizing: auto;
+  font-family: "Patua One", serif;
   font-weight: 600;
   font-style: normal;
    background-color: rgb(253, 225, 225);
@@ -26,8 +25,7 @@ h1, h2 {
 }
 
 h3 {
-  font-family: "Pixelify Sans", sans-serif;
-  font-optical-sizing: auto;
+  font-family: "Patua One", serif;
   font-weight: 400;
   font-style: normal;
   background-color: rgb(255, 235, 204);
