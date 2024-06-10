@@ -1,0 +1,63 @@
+body {
+  padding: 20px 20px;
+  background-color: rgb(41, 3, 3);
+}
+
+
+#bubble {
+  border: 2px solid rgb(136, 3, 3);
+  border-radius: 10px;
+  margin: 20px 15px 30px 15px;
+  padding: 5px 15px;
+  max-width: 100%;
+  background-color: rgb(250, 219, 224);
+}
+
+h1, h2 {
+  font-family: "Tiny5", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+   background-color: rgb(253, 225, 225);
+  border: 2px solid rgb(136, 3, 3);
+  border-radius: 10px;
+  margin: 10 px 15px 10px 15px;
+  padding: 5px 15px;
+}
+
+h3 {
+  font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(255, 235, 204);
+  border: 2px solid grey;
+  border-radius: 10px;
+  margin: -20px 15px 10px 15px;
+  padding: 5px 15px;
+  width: 60%;
+  min-width: 300px;
+  max-width: 100%;
+
+}
+
+.intro {
+  margin-bottom: 35px;
+  color: #fff;
+}
+
+.tiny5-regular {
+  font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.plain {
+  color: #fff;
+}
